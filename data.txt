@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+void add();
+void sub();
+void main()
+{
+add();
+sub();
+getch();
+}
